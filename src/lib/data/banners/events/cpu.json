@@ -1,5 +1,5 @@
 {
-	"patch": 5.1,
+	"patch": "cpu",
 	"data": [
 		{
 			"phase": 1,
@@ -9,7 +9,7 @@
 					"featured": [
 						{
 							"bannerName": "wwk-1",
-							"character": "wwk",
+							"character": "wwk-1",
 							"textOffset": { "l": 50, "b": 10.5 }
 						},
 						{

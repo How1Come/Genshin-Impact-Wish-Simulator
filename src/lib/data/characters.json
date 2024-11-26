@@ -1054,6 +1054,18 @@
 				"splashArt": { "x": 1.62, "y": -5.56, "scale": 1.46 },
 				"wishCard": { "x": 66, "y": 37.80674157303371, "scale": 7.71 }
 			}
+		}, 
+		{
+			"itemID": 4545666,
+			"name": "wwk",
+			"vision": "anemo",
+			"rarity": 5,
+			"release": "1.0-0",
+			"origin": "mondstadt",
+			"offset": {
+				"splashArt": { "x": -1.5, "y": -1.5, "scale": 1.5 },
+				"wishCard": { "x": 0, "y": 0, "scale": 1 }
+			}
 		}
 	]
 }
